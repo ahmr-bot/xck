@@ -12,7 +12,7 @@ api.py -- 用来代替原有查询 API
        </br>
 version1 -- 2022年12月12日爬取官方版本</br>
        1.更改 js/app.97ea852a.js 中的 api 地址为本地地址</br>
-       2.亲测此版本不会变红/黄（可能是爬站有点问题）</br>
+       2.亲测此版本不会变红/黄（后期行程卡做了调整 不会1变红黄，属于正常情况）</br>
 version2 -- 根据 version1 修改</br>
        1.参考了 https://github.com/glen-guo/txdsjxck result_files 中的内容 主要是 result.4676db21.js.download 我把它放入了 version1 版本的 result.ee7a7372.js 文件中 并将 result_files 中的 css 资源文件一并复制</br>
        2.从官方站爬取了红黄色的资源图片，放入了 result_files 中去</br>
